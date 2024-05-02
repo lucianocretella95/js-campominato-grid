@@ -11,15 +11,14 @@ body {
 
 #grid {
   display: flex;
-  flex-direction: column;
-  margin: 0 auto;
-  width: 25rem;
-  border: solid 1px white;
+  flex-wrap: wrap;
 }
 
 .square {
   background-color: black;
-  border: solid 2px red;
+  border: solid 1px green;
+  width: 7rem;
+  margin: 0 auto;
 }
 
 .navbar {
