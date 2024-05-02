@@ -15,9 +15,21 @@ body {
   padding: 1rem;
 }
 
-.square {
+.square-easy {
   background-color: black;
   border: solid 1px green;
+  width: 7rem;
+  margin: 0 auto;
+}
+.square-mid {
+  background-color: black;
+  border: solid 1px yellow;
+  width: 7rem;
+  margin: 0 auto;
+}
+.square-hard {
+  background-color: black;
+  border: solid 1px red;
   width: 7rem;
   margin: 0 auto;
 }
