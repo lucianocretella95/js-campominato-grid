@@ -12,6 +12,7 @@ body {
 #grid {
   display: flex;
   flex-wrap: wrap;
+  padding: 1rem;
 }
 
 .square {
